@@ -1,0 +1,23 @@
+header{
+    height: 100px;
+    background-color:rgb(18, 18, 27);
+    display: flex;
+}
+li{
+    color: white;
+    list-style-type: none;
+    padding-left: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+}
+ul{
+    padding: 45px 20%;
+    margin:0px;
+    display: flex;
+}
+body{
+    margin:0px;
+}
+.logo-ls{
+    padding-left: 50px;
+}
